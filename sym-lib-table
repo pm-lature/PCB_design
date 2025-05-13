@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ADS1115IDGST")(type "KiCad")(uri "${KIPRJMOD}/Online_comoponents _symbols_&_schematics/ADS1115IDGST/ADS1115IDGST.kicad_sym")(options "")(descr ""))
+)

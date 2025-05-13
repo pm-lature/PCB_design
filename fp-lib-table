@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ADS1115IDGST")(type "KiCad")(uri "${KIPRJMOD}/Online_comoponents _symbols_&_schematics/ADS1115IDGST")(options "")(descr ""))
+  (lib (name "MAX3485_NEW")(type "KiCad")(uri "${KIPRJMOD}/Online_comoponents _symbols_&_schematics/MAX3485ESA_T")(options "")(descr ""))
+)
